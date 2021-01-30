@@ -20,7 +20,7 @@ const Container = styled.div`
   height: 100vh;
   padding: 3rem calc((100vw - 1300px) /2);
 
-  @media screen and (max-width: 860vh, (max-height: 200vh) ) {
+  @media screen and (min-device-width: 375vh) {
     grid-template-columns: 1fr;
 }
 `;
