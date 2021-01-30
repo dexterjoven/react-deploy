@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-deploy/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/react-deploy/static/js/main.c4746d77.chunk.js",
+    "main.js.map": "/react-deploy/static/js/main.c4746d77.chunk.js.map",
+    "runtime-main.js": "/react-deploy/static/js/runtime-main.7bc5ffe1.js",
+    "runtime-main.js.map": "/react-deploy/static/js/runtime-main.7bc5ffe1.js.map",
+    "static/js/2.c231f60e.chunk.js": "/react-deploy/static/js/2.c231f60e.chunk.js",
+    "static/js/2.c231f60e.chunk.js.map": "/react-deploy/static/js/2.c231f60e.chunk.js.map",
+    "static/js/3.902f449c.chunk.js": "/react-deploy/static/js/3.902f449c.chunk.js",
+    "static/js/3.902f449c.chunk.js.map": "/react-deploy/static/js/3.902f449c.chunk.js.map",
+    "index.html": "/react-deploy/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/react-deploy/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c231f60e.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.c231f60e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-deploy/static/media/logo.6ce24c58.svg",
+    "static/media/planet-2.114cdca2.svg": "/react-deploy/static/media/planet-2.114cdca2.svg",
+    "static/media/planet-3.ed08a7ab.svg": "/react-deploy/static/media/planet-3.ed08a7ab.svg",
+    "static/media/planet-4.32709d8a.svg": "/react-deploy/static/media/planet-4.32709d8a.svg",
+    "static/media/planet.aec32de6.svg": "/react-deploy/static/media/planet.aec32de6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bc5ffe1.js",
+    "static/js/2.c231f60e.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c4746d77.chunk.js"
+  ]
+}
