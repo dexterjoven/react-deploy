@@ -7,7 +7,7 @@ import PlanetThree from '../images/planet-3.svg'
 import PlanetFour from '../images/planet-4.svg'
 
 const Section = styled.section`
-  height: 100vh;
+  height: 120vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -20,7 +20,7 @@ const Container = styled.div`
   height: 100vh;
   padding: 3rem calc((100vw - 1300px) /2);
 
-  @media screen and (max-width: 768px ) {
+  @media screen and (max-width: 768px, (max-height: 200vh) ) {
     grid-template-columns: 1fr;
 }
 `;
